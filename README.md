@@ -13,12 +13,12 @@
 ##### Sordeal's Code is fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it.
 
 
-##### [:gem: Premium](https://discord.gg/k9zGySHCvt)
+##### [:gem: Premium](https://discord.gg/rAWkmtTzdE)
 
 
 
 <h2 align="center">
- https://discord.gg/k9zGySHCvt
+ https://discord.gg/rAWkmtTzdE
 </h2>
 
 **NOTE:** 
@@ -31,7 +31,7 @@ This software was made for personal **education** and **sandbox testing**
 
 
 ## <a id="content"></a>🌐 〢 Content
-- [🌌・Discord](https://discord.gg/k9zGySHCvt)
+- [🌌・Discord](https://discord.gg/rAWkmtTzdE)
 - [🎉・Setting up Sordeal](#setup)
 - [🔰・Features](#features)
 - [👁️・Features Explanation](#explanation)
